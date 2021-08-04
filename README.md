@@ -1,7 +1,7 @@
 ### Salut 👋
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6364613-Octocat-walk-cycle&psig=AOvVaw21l6WoI2mUUBR5Gv6fqp_S&ust=1628172880873000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIDdwOfGl_ICFQAAAAAdAAAAABAY" width=300>
+  <img src="https://github.com/kunalpatz/kunalpatz/blob/main/walkcyclevector24_dribbble.gif" width=300>
     <br>
   <br>
 
