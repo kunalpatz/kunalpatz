@@ -1,7 +1,7 @@
 ### Salut 👋
 
 <p align="center">
-  <img src="https://github.com/0dayNinja/0dayNinja/blob/main/APKI.gif" width=200>
+  <img src="https://github.com/kunalpatz/kunalpatz/blob/main/APKI.gif" width=200>
     <br>
   <br>
 
