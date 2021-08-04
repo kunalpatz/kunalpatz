@@ -1,6 +1,12 @@
 ### Salut 👋
 
-![alt text](APKI.gif)
+<p align="center">
+  <img src="https://github.com/0dayNinja/0dayNinja/blob/main/APKI.gif" width=200>
+    <br>
+  <br>
+
+</p>
+
 <!--
 **kunalpatz/kunalpatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
