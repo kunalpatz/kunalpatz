@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text]()
+![alt text](APKI.gif)
 <!--
 **kunalpatz/kunalpatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
